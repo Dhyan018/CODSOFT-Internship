@@ -1,4 +1,4 @@
-#**Titanic Survival Prediction**
+# **Titanic Survival Prediction**
 
 This project focuses on predicting whether a passenger survived the Titanic disaster using machine learning techniques based on passenger information.
 
@@ -12,7 +12,7 @@ The goal of this project is to classify passengers into:
 
 The prediction is performed using machine learning models trained on passenger-related features.
 
-#**Dataset**
+## **Dataset**
 
 * Dataset: Titanic Dataset
 
@@ -34,7 +34,7 @@ Features:
 
 * Number of Parents/Children aboard (Parch)
 
-#**Target Variable**
+## **Target Variable**
 
 Survived
 
@@ -42,7 +42,7 @@ Survived
 
 * 1 → Survived
 
-#**Technologies Used**
+## **Technologies Used**
 
 * Python
 
@@ -56,13 +56,13 @@ Survived
 
 * Seaborn
 
-#**Machine Learning Model Used**
+## **Machine Learning Model Used**
 
 * Logistic Regression
 
 Categorical variables were converted into numerical values, and missing values were handled during preprocessing to improve model performance.
 
-#**Model Evaluation**
+## **Model Evaluation**
 
 The model was evaluated using the following metrics:
 
@@ -72,13 +72,13 @@ The model was evaluated using the following metrics:
 
 * Confusion Matrix
 
-#**Sample Results**
+## **Sample Results**
 
 Model Accuracy: ~80% 
 
 The model demonstrates good performance for a beginner-level classification problem.
 
-#**Conclusion**
+## **Conclusion**
 
 This project demonstrates the complete machine learning workflow, including:
 
