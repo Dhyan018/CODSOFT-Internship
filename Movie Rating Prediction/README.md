@@ -1,4 +1,4 @@
-# **IMDb Movie Rating Prediction**
+# **Task 2: Movie Rating Prediction**
 
 This project focuses on predicting the rating of a movie using machine learning regression techniques based on various movie-related features such as genre, director, and actors.
 
