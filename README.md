@@ -2,7 +2,7 @@
 
 This repository contains tasks completed as part of the **CODSOFT Data Science Internship**.
 
-# Tasks :
+## Tasks :
 
 * Task 1 : Titanic Survival Prediction
 * Task 2 : Movie Rating Prediction using Python
@@ -10,7 +10,7 @@ This repository contains tasks completed as part of the **CODSOFT Data Science I
 * Task 4 : Sales Prediction using Python 
 * Task 5 : Iris Flower Classification
 
-# Each task includes:
+## Each task includes:
 * Data preprocessing
 * Exploratory Data Analysis
 * Machine Learning Model
