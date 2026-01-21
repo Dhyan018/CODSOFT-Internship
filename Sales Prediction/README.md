@@ -8,7 +8,7 @@ The objective of this project is to build a regression model that can accurately
 
 ## **Dataset**
 
-* Dataset Name: Advertising Dataset
+* Dataset: Advertising Dataset
 
 * Source: Provided as part of the project
 
@@ -22,7 +22,7 @@ Features:
 
 * Newspaper Advertising Spend
 
-# **Target Variable**
+## **Target Variable**
 
 * Sales
 
